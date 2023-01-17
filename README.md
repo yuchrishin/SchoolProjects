@@ -1,2 +1,2 @@
-# Projects
-SMU Noticable Projects
+# SMU DS School Project
+Collection of Favorite Projects
