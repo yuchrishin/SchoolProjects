@@ -1,2 +1,2 @@
-# SchoolProjects
+# Projects
 SMU Noticable Projects
